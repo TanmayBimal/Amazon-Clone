@@ -111,12 +111,14 @@ span{
     font-weight: 500;
 }
 .hero-section{
+    background-image: url("../images/earphone.jpg");
     background-size: cover;
     height: 350px;
     display: flex;
     justify-content: center;
     align-items: flex-end;
 }
+
 .hero-msg{
     background-color: white;
     color: black;
